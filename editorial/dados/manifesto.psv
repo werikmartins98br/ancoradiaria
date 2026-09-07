@@ -1,0 +1,438 @@
+ID|JID|ETAPA|TIPO|TITULO|REFERENCIA|MIN|TAGS
+J01E01|J01|1|ETAPA|A primeira palavra|Gênesis 1:1-5|7|criação;revelação;iniciativa de Deus
+J01E02|J01|2|ETAPA|O Deus que desce para procurar|Gênesis 3:8-13|7|queda;busca de Deus;vergonha
+J01E03|J01|3|FAROL|Como Deus se dá a conhecer|Salmos 19:1-11|10|revelação geral;revelação especial
+J01E04|J01|4|ETAPA|O nome que não cabe na sua mão|Êxodo 3:1-15|10|nome de Deus;santidade;chamado
+J01E05|J01|5|ETAPA|Santo, santo, santo|Isaías 6:1-8|7|santidade;adoração;perdão
+J01E06|J01|6|ETAPA|Bondade não é ingenuidade|Êxodo 34:5-9|7|caráter de Deus;misericórdia;justiça
+J01E07|J01|7|CALMARIA|Aquietai-vos|Salmos 46:8-11|3|silêncio;confiança;presença
+J01E08|J01|8|ETAPA|Ele não precisa de você — e ainda assim te quer|Atos 17:22-31|10|autossuficiência de Deus;graça
+J01E09|J01|9|LASTRO|Guardar quem Ele é|Salmos 100:1-5|3|memorização;gratidão
+J01E10|J01|10|MARCO|O que aprendi sobre Deus|1 Crônicas 29:10-13|15|revisão;adoração
+J02E01|J02|1|ETAPA|O problema que ninguém inventou|Romanos 3:9-20|7|pecado;lei;honestidade
+J02E02|J02|2|ETAPA|Não se trata de ser melhor que alguém|Romanos 3:21-26|10|justificação;propiciação
+J02E03|J02|3|FAROL|O que a cruz resolve|Isaías 53:4-6|10|expiação;substituição
+J02E04|J02|4|HORIZONTE|O túmulo vazio muda o argumento|1 Coríntios 15:12-20|7|ressurreição;esperança
+J02E05|J02|5|ETAPA|Crer não é concordar|João 3:14-21|7|fé;confiança;luz
+J02E06|J02|6|ETAPA|Arrependimento não é remorso|2 Coríntios 7:8-11|7|arrependimento;tristeza segundo Deus
+J02E07|J02|7|FAROL|Justificado: uma palavra de tribunal|Romanos 5:6-11|10|justificação;paz com Deus
+J02E08|J02|8|ETAPA|De servo a filho|Gálatas 4:1-7|7|adoção;herança;Espírito
+J02E09|J02|9|ETAPA|A fé que se vê pelas mãos|Tiago 2:14-26|7|fé e obras;evidência
+J02E10|J02|10|TEMPESTADE|E se eu não sentir nada?|1 João 5:11-13|7|segurança da salvação;sentimento
+J02E11|J02|11|CLAMOR|A oração de quem não tem argumento|Lucas 18:9-14|5|humildade;oração;graça
+J02E12|J02|12|MARCO|Onde eu estou com Deus|Efésios 2:11-22|15|revisão;graça;identidade
+J03E01|J03|1|ETAPA|Feito, não fabricado|Gênesis 1:26-31|7|imagem de Deus;dignidade
+J03E02|J03|2|ETAPA|Antes de você fazer qualquer coisa|Salmos 139:13-18|7|criação;valor;intimidade
+J03E03|J03|3|ETAPA|Escolhido não é preferido|1 Pedro 2:9-10|7|povo de Deus;pertencimento
+J03E04|J03|4|FAROL|Adoção: o vocabulário jurídico do amor|Romanos 8:15-17|10|adoção;Espírito;herança
+J03E05|J03|5|ETAPA|O nome que só Ele sabe|Apocalipse 2:17|7|identidade;nome novo;intimidade
+J03E06|J03|6|ETAPA|Quando alguém te define errado|1 Samuel 16:1-13|7|aparência;coração;escolha de Deus
+J03E07|J03|7|ETAPA|Nem tudo o que você fez é quem você é|1 Coríntios 6:9-11|7|passado;lavado;transformação
+J03E08|J03|8|CARTA DE BORDO|Como eu me descrevo|Salmos 139:23-24|10|autoconhecimento;sondagem
+J03E09|J03|9|PORTO|Você não precisa provar nada hoje|Sofonias 3:14-17|3|descanso;alegria de Deus
+J03E10|J03|10|LASTRO|Três frases para levar|Isaías 43:1-4|3|memorização;identidade
+J04E01|J04|1|ETAPA|O livro que lê você|Hebreus 4:12-13|7|Escritura;consciência
+J04E02|J04|2|FAROL|O que a Bíblia é — e o que ela não é|2 Timóteo 3:14-17|10|inspiração;suficiência
+J04E03|J04|3|ETAPA|Uma biblioteca, não um livro só|João 5:39-40|7|unidade das Escrituras;Cristo
+J04E04|J04|4|FAROL|Nem tudo se lê do mesmo jeito|Salmos 1:1-6|10|gêneros literários;poesia
+J04E05|J04|5|PASSO|Comece por Marcos|Marcos 1:1-8|5|plano de leitura;iniciar
+J04E06|J04|6|ETAPA|Contexto evita estragos|Jeremias 29:10-14|10|interpretação;contexto histórico
+J04E07|J04|7|CALMARIA|Ler devagar|Salmos 119:9-16|3|meditação;lentidão
+J04E08|J04|8|ETAPA|Quando o texto incomoda|João 6:60-69|7|dureza do texto;permanecer
+J04E09|J04|9|PASSO|Sublinhar, perguntar, responder|Neemias 8:1-8|5|método;compreensão
+J04E10|J04|10|ETAPA|Da leitura à vida|Tiago 1:22-25|7|obediência;espelho
+J04E11|J04|11|CARTA DE BORDO|Meu plano real de leitura|Esdras 7:9-10|10|planejamento;rotina
+J04E12|J04|12|MARCO|O que mudou na minha leitura|Salmos 119:105|15|revisão;Palavra
+J05E01|J05|1|ETAPA|A conta que outro pagou|Efésios 2:8-9|7|graça;dom;obras
+J05E02|J05|2|ETAPA|O filho que voltou pelo motivo errado|Lucas 15:17-24|7|arrependimento;acolhimento
+J05E03|J05|3|ETAPA|O irmão mais velho também estava longe|Lucas 15:25-32|7|religiosidade;ressentimento
+J05E04|J05|4|FAROL|Graça não é permissão|Romanos 6:1-14|10|santificação;liberdade
+J05E05|J05|5|ETAPA|Os trabalhadores da última hora|Mateus 20:1-16|7|generosidade de Deus;comparação
+J05E06|J05|6|TEMPESTADE|Quando você acha que gastou a última chance|Miquéias 7:18-20|7|perdão;misericórdia
+J05E07|J05|7|PORTO|Descansar do esforço de merecer|Mateus 11:28-30|3|descanso;jugo
+J05E08|J05|8|CLAMOR|Orar sem currículo|Salmos 51:1-9|5|confissão;restauração
+J06E01|J06|1|ETAPA|O Verbo que se fez carne|João 1:1-14|10|encarnação;glória
+J06E02|J06|2|ETAPA|Nasceu no lugar improvável|Lucas 2:1-14|7|encarnação;humildade
+J06E03|J06|3|PORTO|Trinta anos de vida comum|Lucas 2:41-52|3|obscuridade;crescimento
+J06E04|J06|4|ETAPA|O batismo e a voz|Marcos 1:9-13|7|identidade;aprovação do Pai
+J06E05|J06|5|ETAPA|Tentado de verdade|Mateus 4:1-11|10|tentação;Escritura
+J06E06|J06|6|FAROL|O Reino que Ele anunciou|Marcos 1:14-20|10|reino de Deus;chamado
+J06E07|J06|7|ETAPA|Ele tocou o intocável|Marcos 1:40-45|7|compaixão;impureza
+J06E08|J06|8|ETAPA|Perdoa pecados e levanta paralíticos|Marcos 2:1-12|7|autoridade;perdão
+J06E09|J06|9|ETAPA|Come com quem ninguém convida|Lucas 5:27-32|7|graça;mesa;pecadores
+J06E10|J06|10|ETAPA|Dorme na tempestade|Marcos 4:35-41|7|medo;autoridade;fé
+J06E11|J06|11|ETAPA|Chora antes do milagre|João 11:38-44|10|compaixão;ressurreição;luto
+J06E12|J06|12|FAROL|Eu sou o pão da vida|João 6:32-40|10|suficiência de Cristo;fome
+J06E13|J06|13|ETAPA|Quem vocês dizem que eu sou?|Marcos 8:27-33|10|confissão;cruz
+J06E14|J06|14|CALMARIA|Transfigurado|Lucas 9:28-36|3|glória;silêncio;escuta
+J06E15|J06|15|ETAPA|Lava os pés de quem vai traí-lo|João 13:1-11|10|serviço;amor até o fim
+J06E16|J06|16|TEMPESTADE|Getsêmani: o Filho com medo|Marcos 14:32-42|7|angústia;submissão;oração
+J06E17|J06|17|ETAPA|O julgamento e o silêncio|Marcos 15:1-15|7|injustiça;silêncio;substituição
+J06E18|J06|18|ETAPA|Está consumado|João 19:28-30|10|cruz;consumação
+J06E19|J06|19|ETAPA|Ele chamou pelo nome|João 20:11-18|7|ressurreição;reconhecimento
+J06E20|J06|20|ETAPA|A estrada de Emaús|Lucas 24:13-35|10|Escrituras;presença;reconhecer
+J06E21|J06|21|MARCO|Quem Jesus é para mim agora|Colossenses 1:15-20|15|revisão;supremacia de Cristo
+J07E01|J07|1|ETAPA|Outro Consolador|João 14:15-20|10|Espírito Santo;paz;presença
+J07E02|J07|2|FAROL|Quem é o Espírito Santo|João 16:5-15|10|pessoa do Espírito;convencimento
+J07E03|J07|3|ETAPA|O vento que ninguém organiza|Atos 2:1-13|7|Pentecostes;poder;línguas
+J07E04|J07|4|ETAPA|Fruto não é técnica|Gálatas 5:16-25|10|fruto do Espírito;caráter
+J07E05|J07|5|ETAPA|Dons não são medalhas|1 Coríntios 12:4-11|7|dons;corpo;serviço
+J07E06|J07|6|ETAPA|Quando você não sabe orar|Romanos 8:26-27|7|intercessão do Espírito;fraqueza
+J07E07|J07|7|ETAPA|Não entristeçam o Espírito|Efésios 4:25-32|7|santidade;palavras;perdão
+J07E08|J07|8|CLAMOR|Enche outra vez|Efésios 5:15-20|5|plenitude;louvor;dependência
+J08E01|J08|1|ETAPA|Ensina-nos a orar|Lucas 11:1-4|7|oração;discipulado
+J08E02|J08|2|FAROL|Pai nosso: o mapa da oração|Mateus 6:9-13|15|oração modelo;estrutura
+J08E03|J08|3|ETAPA|Que pai é esse?|Mateus 7:9-11|7|filiação;intimidade
+J08E04|J08|4|ETAPA|Santificado seja o teu nome|Salmos 8:1-9|7|adoração;majestade
+J08E05|J08|5|ETAPA|Venha o teu reino|Isaías 64:1-8|10|reino;anseio;confissão
+J08E06|J08|6|ETAPA|O pão de hoje|Êxodo 16:11-21|7|provisão;dependência diária
+J08E07|J08|7|ETAPA|Perdoa-nos como perdoamos|Mateus 6:14-15|7|perdão;condição
+J08E08|J08|8|ETAPA|Não nos deixes cair|1 Coríntios 10:12-13|7|tentação;livramento
+J08E09|J08|9|PASSO|O lugar e a hora|Marcos 1:35|5|hábito;lugar;horário
+J08E10|J08|10|ETAPA|Oração não é discurso|Mateus 6:5-8|7|simplicidade;sinceridade
+J08E11|J08|11|ETAPA|Orar com os salmos|Salmos 63:1-8|7|salmos;sede de Deus
+J08E12|J08|12|ETAPA|Quando a oração vira reclamação|Salmos 142:1-7|7|lamento;honestidade
+J08E13|J08|13|FAROL|Pedir, buscar, bater|Lucas 11:5-13|10|persistência;bondade do Pai
+J08E14|J08|14|ETAPA|Insistir não é manipular|Lucas 18:1-8|7|perseverança;justiça
+J08E15|J08|15|ETAPA|Orar pelos outros|Colossenses 1:9-14|7|intercessão;maturidade
+J08E16|J08|16|CLAMOR|Orar junto|Atos 4:23-31|5|oração comunitária;coragem
+J08E17|J08|17|CALMARIA|Silêncio diante de Deus|Salmos 62:1-8|3|silêncio;confiança
+J08E18|J08|18|ETAPA|Quando a resposta é não|2 Coríntios 12:7-10|10|graça suficiente;fraqueza
+J08E19|J08|19|ETAPA|Gratidão dentro do pedido|Filipenses 4:4-9|7|gratidão;paz
+J08E20|J08|20|CARTA DE BORDO|Meu caderno de orações|Habacuque 2:1-4|10|registro;espera
+J08E21|J08|21|MARCO|Como minha oração mudou|Efésios 3:14-21|15|revisão;profundidade
+J09E01|J09|1|ETAPA|O que a ansiedade promete e não entrega|Mateus 6:25-34|10|ansiedade;provisão
+J09E02|J09|2|ETAPA|Lançar, não engolir|1 Pedro 5:6-11|7|ansiedade;humildade;cuidado
+J09E03|J09|3|TEMPESTADE|Quando o peito aperta de madrugada|Salmos 3:1-8|7|medo noturno;sustento
+J09E04|J09|4|ETAPA|Elias debaixo da árvore|1 Reis 19:1-9|7|exaustão;cuidado de Deus
+J09E05|J09|5|ETAPA|Ainda restam sete mil|1 Reis 19:15-18|7|isolamento;perspectiva
+J09E06|J09|6|FAROL|A mente firme e a paz|Isaías 26:3-4|10|paz;oração;guarda
+J09E07|J09|7|ETAPA|Marta, Marta|Lucas 10:38-42|7|preocupação;prioridade
+J09E08|J09|8|ETAPA|O que você não controla|Tiago 4:13-17|7|planos;soberania
+J09E09|J09|9|CALMARIA|Como criança desmamada|Salmos 131:1-3|3|quietude;humildade
+J09E10|J09|10|ETAPA|Preocupação não é previsão|Provérbios 27:1|7|amanhã;presunção
+J09E11|J09|11|PASSO|Escrever o medo e devolver|Salmos 55:16-22|5|entrega;prática
+J09E12|J09|12|LASTRO|Confiar quando não se entende|Provérbios 3:5-8|3|confiança;entendimento
+J09E13|J09|13|ETAPA|As misericórdias da manhã|Lamentações 3:19-26|10|fidelidade de Deus;esperar
+J09E14|J09|14|PORTO|Hoje basta|Deuteronômio 33:25-27|3|força diária;descanso
+J09E15|J09|15|MARCO|O mapa das minhas ansiedades|Salmos 94:17-19|15|revisão;consolo
+J10E01|J10|1|CLAMOR|Até quando, Senhor?|Salmos 13:1-6|5|silêncio de Deus;lamento
+J10E02|J10|2|TEMPESTADE|O silêncio não é ausência|Jó 23:1-12|10|ausência aparente;prova
+J10E03|J10|3|ETAPA|Fome de ouvir|Amós 8:11-12|7|palavra escassa;busca
+J10E04|J10|4|ETAPA|Ele demorou de propósito|João 11:1-16|10|demora;glória de Deus
+J10E05|J10|5|ETAPA|Quando Deus responde com uma pergunta|Jó 38:1-11|10|mistério;criador
+J10E06|J10|6|CALMARIA|O sussurro depois do vento|1 Reis 19:11-13|3|escuta;presença
+J10E07|J10|7|HORIZONTE|Ainda que a figueira não floresça|Habacuque 3:16-19|7|alegria sem circunstância
+J11E01|J11|1|RETORNO|Você voltou|Oséias 14:1-4|5|retomada;acolhimento
+J11E02|J11|2|ETAPA|Caindo em si|Lucas 15:11-16|7|fundo do poço;lucidez
+J11E03|J11|3|ETAPA|Restaurado, não substituído|João 21:15-19|10|restauração;chamado
+J11E04|J11|4|PASSO|A palavra veio segunda vez|Jonas 3:1-3|5|primeiro amor;ação concreta
+J11E05|J11|5|LASTRO|Uma frase para os dias de volta|Joel 2:12-13|3|memorização;misericórdia
+J12E01|J12|1|ETAPA|Fidelidade não é desempenho|1 Coríntios 4:1-2|7|fidelidade;pequenas coisas
+J12E02|J12|2|ETAPA|O pouco que se repete|Zacarias 4:6-10|7|pequenos começos;Espírito
+J12E03|J12|3|FAROL|Treino, não castigo|1 Timóteo 4:6-10|10|disciplina;piedade
+J12E04|J12|4|ETAPA|Daniel e a janela aberta|Daniel 6:6-11|7|constância;coragem
+J12E05|J12|5|ETAPA|De manhã — ou no horário que existir|Salmos 5:1-3|7|rotina;expectativa
+J12E06|J12|6|PASSO|Ancorar a prática num gatilho|Deuteronômio 6:6-9|5|contexto;lembrete
+J12E07|J12|7|LASTRO|Quando você falha três dias seguidos|Provérbios 24:16|3|queda;levantar
+J12E08|J12|8|ETAPA|Semear sem ver|Gálatas 6:7-8|7|perseverança;colheita
+J12E09|J12|9|CARTA DE BORDO|Minha prática realista|Eclesiastes 11:4-6|10|planejamento;ação
+J12E10|J12|10|MARCO|O que já se tornou meu|Filipenses 3:12-16|15|revisão;progresso
+J13E01|J13|1|ETAPA|Sai da tua terra|Gênesis 12:1-5|7|chamado;obediência
+J13E02|J13|2|ETAPA|Lança a rede outra vez|Lucas 5:1-11|7|obediência;rendição
+J13E03|J13|3|ETAPA|Naamã e o rio errado|2 Reis 5:9-15|7|orgulho;simplicidade
+J13E04|J13|4|FAROL|Obediência não compra amor|João 14:21-24|10|amor;mandamentos
+J13E05|J13|5|ETAPA|A obediência custa alguma coisa|Gênesis 22:1-14|10|entrega;provisão
+J13E06|J13|6|ETAPA|O que já foi dito|Miquéias 6:6-8|7|justiça;misericórdia;humildade
+J13E07|J13|7|ETAPA|Quando obedecer parece atrasar|Êxodo 14:10-16|7|impasse;avançar
+J13E08|J13|8|PASSO|A obediência de hoje|Lucas 6:46-49|5|ação;omissão
+J14E01|J14|1|LASTRO|A ordem mais repetida da Bíblia|Isaías 41:8-13|3|medo;presença
+J14E02|J14|2|ETAPA|O medo do que vão dizer|Provérbios 29:25|7|medo do homem;segurança
+J14E03|J14|3|TEMPESTADE|Quando o medo acorda com você|Salmos 56:1-11|7|medo;confiança
+J14E04|J14|4|ETAPA|Josué diante do rio|Josué 1:1-9|10|coragem;promessa
+J14E05|J14|5|ETAPA|Coragem não é ausência de medo|2 Timóteo 1:6-12|7|coragem;vergonha
+J14E06|J14|6|ETAPA|O amor expulsa o medo|1 João 4:16-19|7|amor;confiança
+J14E07|J14|7|LASTRO|Três versos contra o medo|Salmos 27:1-3|3|memorização;coragem
+J15E01|J15|1|ETAPA|José entre o sonho e o trono|Gênesis 37:5-11|7|promessa;espera
+J15E02|J15|2|ETAPA|O poço, a casa e a prisão|Gênesis 39:19-23|7|injustiça;presença de Deus
+J15E03|J15|3|ETAPA|Esperar sem endurecer|Salmos 27:13-14|7|espera;coragem
+J15E04|J15|4|FAROL|O tempo de Deus não é atraso|2 Pedro 3:8-9|10|paciência divina;tempo
+J15E05|J15|5|ETAPA|Ana e o voto|1 Samuel 1:9-18|7|oração;dor;entrega
+J15E06|J15|6|ETAPA|Simeão esperou a vida inteira|Lucas 2:25-35|7|espera longa;cumprimento
+J15E07|J15|7|TEMPESTADE|A esperança adiada adoece|Provérbios 13:12|7|desânimo;esperança
+J15E08|J15|8|ETAPA|Abraão e o filho da promessa|Romanos 4:18-25|10|fé;promessa
+J15E09|J15|9|CALMARIA|Como sentinelas pela manhã|Salmos 130:1-8|3|espera;perdão
+J15E10|J15|10|HORIZONTE|O que a espera está formando|Tiago 5:7-11|7|paciência;lavrador
+J16E01|J16|1|ETAPA|A pergunta que a Bíblia não evita|Jó 1:13-22|10|sofrimento;perda;adoração
+J16E02|J16|2|TEMPESTADE|Quando os amigos falam demais|Jó 2:11-13|7|consolo;silêncio;presença
+J16E03|J16|3|ETAPA|Sofrimento não é sentença|João 9:1-7|10|culpa;obra de Deus
+J16E04|J16|4|FAROL|Um mundo bom que se quebrou|Romanos 8:18-25|15|criação;gemido;esperança
+J16E05|J16|5|ETAPA|Consolados para consolar|2 Coríntios 1:3-11|7|consolo;comunhão no sofrimento
+J16E06|J16|6|ETAPA|Vocês pensaram o mal; Deus o tornou bem|Gênesis 50:15-21|10|providência;perdão
+J16E07|J16|7|ETAPA|O forno e o quarto homem|Daniel 3:16-27|10|fidelidade;livramento;e se não
+J16E08|J16|8|TEMPESTADE|Quando a doença não vai embora|Salmos 88:1-18|7|desespero;oração sem resposta
+J16E09|J16|9|CALMARIA|Tempo de chorar|Eclesiastes 3:1-8|3|estações;luto;permissão
+J16E10|J16|10|ETAPA|O caminho de Jesus passou por aqui|Hebreus 2:16-18|10|encarnação;solidariedade
+J16E11|J16|11|ETAPA|Provação e caráter|Tiago 1:2-4|7|provação;perseverança
+J16E12|J16|12|ETAPA|Não se admirem|1 Pedro 4:12-19|7|sofrimento cristão;confiar
+J16E13|J16|13|CALMARIA|O vale da sombra|Salmos 23:1-6|3|presença;consolo
+J16E14|J16|14|CARTA DE BORDO|O que eu não entendo|Salmos 77:1-15|10|lamento;memória de Deus
+J16E15|J16|15|MARCO|Onde Deus estava|Romanos 8:31-39|15|revisão;amor inseparável
+J17E01|J17|1|ETAPA|Sede santos|1 Pedro 1:13-19|7|santidade;temor;resgate
+J17E02|J17|2|ETAPA|A raiz é o coração|Mateus 5:21-22|7|ira;coração
+J17E03|J17|3|FAROL|Obra de Deus e trabalho seu|Filipenses 2:12-16|10|santificação;cooperação
+J17E04|J17|4|ETAPA|Despir e vestir|Colossenses 3:1-11|10|velho e novo homem
+J17E05|J17|5|ETAPA|O que ninguém vê|Mateus 6:1-4|7|secreto;recompensa
+J17E06|J17|6|ETAPA|A balança no bolso|Provérbios 11:1-3|7|honestidade;balança
+J17E07|J17|7|ETAPA|A língua é um leme|Tiago 3:2-12|10|palavras;controle
+J17E08|J17|8|ETAPA|Um pacto com os olhos|Jó 31:1-4|7|pureza;imaginação
+J17E09|J17|9|ETAPA|Mentira pequena não existe|Atos 5:1-11|7|verdade;aparência
+J17E10|J17|10|PASSO|Uma coisa que precisa sair|Hebreus 12:1-2|5|peso;corrida
+J17E11|J17|11|CALMARIA|Sonda-me|Salmos 26:1-7|3|exame;integridade
+J17E12|J17|12|MARCO|O que mudou de verdade|2 Coríntios 3:16-18|15|revisão;transformação
+J18E01|J18|1|ETAPA|Creio; ajuda a minha incredulidade|Marcos 9:17-27|7|fé;dúvida;honestidade
+J18E02|J18|2|ETAPA|Tomé não foi expulso|João 20:24-29|7|dúvida;evidência;fé
+J18E03|J18|3|ETAPA|João Batista na prisão|Mateus 11:1-11|10|dúvida;expectativa frustrada
+J18E04|J18|4|FAROL|Dúvida não é o contrário de fé|Hebreus 11:1-6|10|fé;certeza;confiança
+J18E05|J18|5|ETAPA|Perguntar não é pecado|Habacuque 1:1-11|10|questionamento;injustiça
+J18E06|J18|6|ETAPA|Até que entrei no santuário|Salmos 73:1-17|10|inveja;perspectiva;fé
+J18E07|J18|7|HORIZONTE|Então conhecerei|1 Coríntios 13:9-13|7|conhecimento parcial;esperança
+J19E01|J19|1|ETAPA|Nem tudo que brilha vem do céu|1 João 4:1-6|7|provar espíritos;verdade
+J19E02|J19|2|FAROL|A régua é a Escritura|Atos 17:10-12|10|exame;bereianos
+J19E03|J19|3|ETAPA|Quando o ouvido escolhe o que quer|2 Timóteo 4:1-5|7|sã doutrina;preferência
+J19E04|J19|4|ETAPA|Frutos, não fogos|Mateus 7:15-23|10|falsos profetas;fruto
+J19E05|J19|5|ETAPA|A sabedoria que vem do alto|Tiago 3:13-18|7|sabedoria;mansidão
+J19E06|J19|6|ETAPA|Provai tudo; retende o bom|1 Tessalonicenses 5:19-22|7|discernimento;profecia
+J19E07|J19|7|ETAPA|Roboão e os conselheiros errados|2 Crônicas 10:6-16|10|conselho;orgulho
+J19E08|J19|8|ETAPA|Discernir o próprio coração|Jeremias 17:5-10|7|coração enganoso;confiança
+J19E09|J19|9|PASSO|Quem não permanece no ensino|2 João 1:7-11|5|filosofia;raiz em Cristo
+J19E10|J19|10|MARCO|Minha régua está calibrada?|Hebreus 5:11-12|15|revisão;maturidade
+J20E01|J20|1|TEMPESTADE|A dor não tem cronograma|2 Samuel 18:31-33|7|luto;pai;perda
+J20E02|J20|2|ETAPA|Jesus chorou|João 11:32-37|7|compaixão;lágrimas
+J20E03|J20|3|CLAMOR|Lamentar é bíblico|Lamentações 3:1-18|5|lamento;linguagem da dor
+J20E04|J20|4|ETAPA|Davi depois da perda|2 Samuel 12:15-23|7|luto;aceitação;esperança
+J20E05|J20|5|ETAPA|Não como os que não têm esperança|1 Tessalonicenses 4:13-18|10|ressurreição;consolo
+J20E06|J20|6|CALMARIA|Perto dos que têm o coração quebrantado|Salmos 34:15-19|3|proximidade de Deus
+J20E07|J20|7|HORIZONTE|Enxugará toda lágrima|Apocalipse 21:1-5|7|novo céu;consolo final
+J21E01|J21|1|ETAPA|Não é bom que o homem esteja só|Gênesis 2:15-20|7|solidão;companhia
+J21E02|J21|2|ETAPA|Como pardal solitário no telhado|Salmos 102:1-11|7|solidão;lamento
+J21E03|J21|3|ETAPA|Deus faz o solitário morar em família|Salmos 68:4-6|7|família de Deus;acolhida
+J21E04|J21|4|ETAPA|Todos me abandonaram|2 Timóteo 4:9-18|10|abandono;presença de Deus
+J21E05|J21|5|ETAPA|Amigo em todo tempo|Provérbios 17:17|7|amizade;lealdade
+J21E06|J21|6|PASSO|Um contato hoje|Eclesiastes 4:9-12|5|iniciativa;cordão
+J21E07|J21|7|PORTO|Fortaleza no dia da angústia|Naum 1:7|3|presença;missão
+J22E01|J22|1|ETAPA|A tentação tem endereço|Tiago 1:13-18|7|origem do desejo;responsabilidade
+J22E02|J22|2|ETAPA|Onde começa|2 Samuel 11:1-5|10|ócio;olhar;queda
+J22E03|J22|3|ETAPA|O que vem depois do encobrimento|2 Samuel 11:14-27|10|encobrir;consequências
+J22E04|J22|4|FAROL|Às vezes santidade é correr|Gênesis 39:6-12|10|fuga;integridade
+J22E05|J22|5|ETAPA|Decidir antes de ser testado|Daniel 1:8-16|7|resolução prévia;convicção
+J22E06|J22|6|ETAPA|Seu corpo não é neutro|1 Coríntios 6:18-20|7|corpo;templo;pureza
+J22E07|J22|7|ETAPA|Cortar a fonte|Mateus 5:27-30|7|radicalidade;olhos
+J22E08|J22|8|ETAPA|Confessar a alguém|Tiago 5:13-16|7|confissão;comunidade;cura
+J22E09|J22|9|ETAPA|Domínio próprio é fruto|2 Pedro 1:3-8|10|virtudes;crescimento
+J22E10|J22|10|TEMPESTADE|Quando você caiu de novo|Salmos 32:1-7|7|confissão;alívio
+J22E11|J22|11|PASSO|Seu plano se-então|Provérbios 4:23-27|5|guarda do coração;caminho
+J22E12|J22|12|MARCO|O mapa das minhas quedas|Romanos 7:15-25|15|luta interior;libertação
+J23E01|J23|1|ETAPA|Culpa e vergonha não são a mesma coisa|Salmos 38:1-10|7|culpa;peso;honestidade
+J23E02|J23|2|ETAPA|Confessar é dizer a verdade|1 João 1:5-10|7|confissão;luz;fidelidade
+J23E03|J23|3|FAROL|O que Deus faz com o pecado confessado|Salmos 103:8-14|10|perdão;compaixão;pó
+J23E04|J23|4|ETAPA|Apaguei como névoa|Isaías 44:21-23|7|remissão;redenção
+J23E05|J23|5|TEMPESTADE|Pedro depois do galo|Lucas 22:54-62|7|negação;olhar de Jesus
+J23E06|J23|6|ETAPA|Judas e Pedro: a diferença|Mateus 27:1-5|10|remorso;arrependimento
+J23E07|J23|7|TEMPESTADE|Quando você não se perdoa|1 João 3:19-24|7|coração acusador;segurança
+J23E08|J23|8|ETAPA|Reparar o que der para reparar|Lucas 19:1-10|7|restituição;salvação
+J23E09|J23|9|CLAMOR|Cria em mim um coração puro|Salmos 51:10-17|5|restauração;sacrifício
+J23E10|J23|10|MARCO|O que ficou para trás|Filipenses 3:7-11|15|revisão;perda e ganho
+J24E01|J24|1|ETAPA|Setenta vezes sete|Mateus 18:21-22|7|perdão;limite
+J24E02|J24|2|ETAPA|A dívida impagável|Mateus 18:23-35|10|perdão;dívida;misericórdia
+J24E03|J24|3|FAROL|Perdoar não é dizer que não doeu|Lucas 17:1-6|10|perdão;fé;repetição
+J24E04|J24|4|ETAPA|José se revela aos irmãos|Gênesis 45:1-8|10|reconciliação;providência
+J24E05|J24|5|ETAPA|Perdoar não é confiar automaticamente|Provérbios 26:24-26|7|prudência;perdão
+J24E06|J24|6|ETAPA|A raiz de amargura|Hebreus 12:14-15|7|amargura;paz
+J24E07|J24|7|ETAPA|Ele não revidou|1 Pedro 2:21-25|10|exemplo de Cristo;injustiça
+J24E08|J24|8|ETAPA|Pai, perdoa-lhes|Lucas 23:32-38|10|cruz;perdão
+J24E09|J24|9|TEMPESTADE|Quando a ferida volta a doer|Salmos 55:12-15|7|traição;amigo
+J24E10|J24|10|ETAPA|A vingança não é sua|Romanos 12:19-21|7|vingança;bem
+J24E11|J24|11|PASSO|Escrever o nome e entregar|Marcos 11:25|5|prática;oração
+J24E12|J24|12|MARCO|O que eu ainda carrego|Colossenses 3:12-17|15|revisão;vestir amor
+J25E01|J25|1|ETAPA|A sabedoria começa em outro lugar|Provérbios 1:1-7|7|temor do Senhor;sabedoria
+J25E02|J25|2|ETAPA|Se alguém tem falta de sabedoria|Tiago 1:5-8|7|pedir;dupla mente
+J25E03|J25|3|FAROL|A vontade de Deus não é um enigma|Romanos 12:1-2|15|vontade de Deus;renovação
+J25E04|J25|4|ETAPA|Salomão pediu a coisa certa|1 Reis 3:5-15|10|pedido;discernimento
+J25E05|J25|5|ETAPA|Quando as portas se fecham|Atos 16:6-10|7|direção;impedimento
+J25E06|J25|6|ETAPA|Decisão com conselho|Provérbios 15:22|7|conselho;planos
+J25E07|J25|7|ETAPA|O critério que quase ninguém usa|Filipenses 1:9-11|7|amor;excelência
+J25E08|J25|8|ETAPA|Sorteio, sinal ou juízo?|Atos 1:21-26|10|métodos;providência
+J25E09|J25|9|PASSO|Sua matriz de decisão|Lucas 14:28-33|5|custo;planejamento
+J25E10|J25|10|MARCO|Como eu decido|Provérbios 16:1-9|15|revisão;passos dirigidos
+J26E01|J26|1|ETAPA|Onde está o seu tesouro|Mateus 6:19-24|10|tesouro;dois senhores
+J26E02|J26|2|ETAPA|O celeiro maior|Lucas 12:13-21|7|avareza;insensatez
+J26E03|J26|3|FAROL|O dinheiro não é o problema|1 Timóteo 6:6-12|10|amor ao dinheiro;contentamento
+J26E04|J26|4|ETAPA|O jovem rico|Marcos 10:17-27|10|posses;seguir
+J26E05|J26|5|ETAPA|Dívida e liberdade|Provérbios 22:1-9|7|dívida;bom nome
+J26E06|J26|6|ETAPA|Trabalhar, guardar, planejar|Provérbios 6:6-8|7|diligência;preguiça
+J26E07|J26|7|ETAPA|Semear com alegria|2 Coríntios 9:6-11|7|generosidade;semeadura
+J26E08|J26|8|ETAPA|Duas moedinhas|Marcos 12:41-44|7|oferta;sacrifício
+J26E09|J26|9|LASTRO|Contentamento se aprende|Filipenses 4:10-13|3|contentamento;suficiência
+J26E10|J26|10|ETAPA|A generosidade dos pobres|2 Coríntios 8:1-9|10|graça;partilha
+J26E11|J26|11|CARTA DE BORDO|Meu dinheiro e minha fé|Ageu 1:3-9|10|prioridade;bolsa furada
+J26E12|J26|12|MARCO|O que meu extrato revela|Lucas 16:10-13|15|revisão;fidelidade
+J27E01|J27|1|ETAPA|O Espírito capacitou um artesão|Êxodo 31:1-6|7|ofício;vocação
+J27E02|J27|2|ETAPA|Como para o Senhor|Colossenses 3:22-24|7|trabalho;serviço
+J27E03|J27|3|FAROL|Nem toda obra é ministério; toda obra pode ser culto|1 Coríntios 7:17-24|10|vocação;chamado
+J27E04|J27|4|ETAPA|Quando o trabalho é injusto|1 Pedro 2:18-20|7|injustiça;paciência
+J27E05|J27|5|ETAPA|O suor e o espinho|Gênesis 3:17-19|7|trabalho;maldição
+J27E06|J27|6|ETAPA|Trabalho, descanso e ritmo|Êxodo 20:8-11|7|sábado;limite
+J27E07|J27|7|ETAPA|Ambição e serviço|Marcos 10:35-45|10|grandeza;servir
+J27E08|J27|8|TEMPESTADE|Quando você odeia o que faz|Eclesiastes 2:17-26|7|frustração;dom de Deus
+J27E09|J27|9|PASSO|Trabalhar em silêncio|2 Tessalonicenses 3:10-13|5|excelência;diligência
+J27E10|J27|10|MARCO|Meu trabalho diante de Deus|Salmos 90:12-17|15|revisão;obra confirmada
+J28E01|J28|1|ETAPA|Uma só carne|Gênesis 2:21-25|7|casamento;união
+J28E02|J28|2|FAROL|O que o casamento representa|Efésios 5:22-33|15|mistério;Cristo e igreja
+J28E03|J28|3|ETAPA|Amor não é só sentimento|1 Coríntios 13:1-8|10|amor;definição
+J28E04|J28|4|ETAPA|Honrar em público e em casa|1 Pedro 3:1-9|10|honra;convivência
+J28E05|J28|5|CALMARIA|O que a rotina desgasta|Cantares 2:10-15|3|afeto;raposinhas
+J28E06|J28|6|ETAPA|Conversar de novo|Tiago 1:19-21|7|ouvir;ira
+J28E07|J28|7|TEMPESTADE|Quando a confiança foi quebrada|Oséias 3:1-5|10|traição;amor obstinado
+J28E08|J28|8|ETAPA|Reconstruir o que ruiu|Isaías 58:9-12|10|restauração;reparador
+J28E09|J28|9|ETAPA|Perdão dentro de casa|Colossenses 3:18-21|7|família;perdão
+J28E10|J28|10|ETAPA|Servir sem placar|Filipenses 2:1-8|10|humildade;interesse do outro
+J28E11|J28|11|CARTA DE BORDO|O que eu posso mudar em mim|Mateus 7:1-5|10|trave;autocrítica
+J28E12|J28|12|MARCO|Aonde fores, irei|Rute 1:14-18|15|aliança;compromisso
+J29E01|J29|1|ETAPA|A casa que a sabedoria constrói|Provérbios 24:3-4|7|casa;sabedoria
+J29E02|J29|2|ETAPA|Ensinar no caminho|Deuteronômio 6:20-25|7|transmissão;memória
+J29E03|J29|3|ETAPA|Pais e filhos|Efésios 6:1-4|7|obediência;criação
+J29E04|J29|4|ETAPA|Quando os filhos se afastam|Malaquias 4:5-6|7|corações;restauração
+J29E05|J29|5|ETAPA|Honrar quando é difícil|Êxodo 20:12|7|honra;pais
+J29E06|J29|6|ETAPA|A casa dividida por causa dele|Mateus 10:34-39|10|conflito familiar;lealdade
+J29E07|J29|7|ETAPA|Eu e a minha casa|Josué 24:14-18|7|escolha;liderança
+J29E08|J29|8|ETAPA|Cooperadores da verdade|3 João 1:5-8|7|acolhida;amor fraternal
+J29E09|J29|9|PASSO|Uma conversa que precisa acontecer|Provérbios 15:1-4|5|palavras;resposta branda
+J29E10|J29|10|MARCO|O que se respira aqui dentro|Salmos 127:3-5|15|revisão;edificar
+J30E01|J30|1|ETAPA|Vá primeiro|Mateus 5:23-26|7|iniciativa;reconciliação
+J30E02|J30|2|ETAPA|Quanto depender de você|Romanos 12:17-18|7|paz;limite
+J30E03|J30|3|FAROL|Confrontar com amor|Mateus 18:15-20|10|repreensão;processo
+J30E04|J30|4|ETAPA|Abraão cede a escolha|Gênesis 13:5-12|7|conflito;generosidade
+J30E05|J30|5|ETAPA|Paulo e Barnabé se separaram|Atos 15:36-41|10|desacordo;honestidade
+J30E06|J30|6|ETAPA|"Pedir perdão sem ""mas"""|Provérbios 28:13|7|confissão;misericórdia
+J30E07|J30|7|ETAPA|Quando a outra pessoa não quer|Romanos 14:17-19|7|paz;edificação
+J30E08|J30|8|PASSO|A primeira frase|Provérbios 25:11-15|5|palavra a tempo;brandura
+J31E01|J31|1|ETAPA|Não cobiçarás|Êxodo 20:17|7|cobiça;mandamento
+J31E02|J31|2|ETAPA|Cada um leve a sua carga|Gálatas 6:3-5|7|comparação;responsabilidade
+J31E03|J31|3|ETAPA|Caim e o rosto abatido|Gênesis 4:3-9|10|inveja;ira;domínio
+J31E04|J31|4|ETAPA|Saul e as dez mil|1 Samuel 18:6-12|7|inveja;poder
+J31E05|J31|5|FAROL|O pecado que se disfarça de virtude|Tiago 4:1-10|10|orgulho;humildade
+J31E06|J31|6|ETAPA|E quanto a este?|João 21:20-23|7|comparação;chamado próprio
+J31E07|J31|7|ETAPA|Alegrar-se com quem venceu|Romanos 12:15-16|7|empatia;humildade
+J31E08|J31|8|LASTRO|Uma frase contra a comparação|Salmos 16:5-8|3|memorização;herança
+J32E01|J32|1|ETAPA|Não nos cansemos de fazer o bem|Gálatas 6:9-10|7|perseverança;colheita
+J32E02|J32|2|ETAPA|A disciplina que não é castigo|Hebreus 12:4-13|10|correção;filhos;treino
+J32E03|J32|3|FAROL|Quem começou vai terminar|Filipenses 1:3-6|10|perseverança;obra de Deus
+J32E04|J32|4|ETAPA|Braços cansados, mãos amparadas|Êxodo 17:8-13|7|apoio;comunidade;luta
+J32E05|J32|5|ETAPA|Neemias e os que zombavam|Neemias 4:1-9|10|oposição;trabalho;oração
+J32E06|J32|6|ETAPA|Quando o que você constrói parece menor|Ageu 2:1-9|7|desânimo;glória futura
+J32E07|J32|7|TEMPESTADE|Cansado de ser cristão|Isaías 40:27-31|10|exaustão;renovação
+J32E08|J32|8|ETAPA|Uma nuvem de testemunhas|Hebreus 11:32-40|10|fé;promessa não recebida
+J32E09|J32|9|LASTRO|Combati o bom combate|2 Timóteo 4:6-8|3|fim da corrida;coroa
+J32E10|J32|10|ETAPA|Fiel até o fim|Apocalipse 2:8-11|7|fidelidade;tribulação
+J32E11|J32|11|RETORNO|Depois de uma longa pausa|Isaías 55:6-9|5|retomada;buscar
+J32E12|J32|12|MARCO|O que me sustentou até aqui|1 Samuel 7:10-12|15|Ebenézer;memória
+J33E01|J33|1|ETAPA|A toalha e a bacia|João 13:12-17|7|serviço;exemplo
+J33E02|J33|2|ETAPA|Dorcas e as roupas que ela fez|Atos 9:36-42|7|obras;impacto discreto
+J33E03|J33|3|ETAPA|A mim o fizestes|Mateus 25:31-40|10|serviço aos pequenos
+J33E04|J33|4|FAROL|Dons para o corpo|Romanos 12:3-8|10|dons;medida da fé
+J33E05|J33|5|ETAPA|Quando servir cansa|Êxodo 18:13-24|10|delegar;limite
+J33E06|J33|6|ETAPA|Liberdade para servir|Gálatas 5:13-15|7|liberdade;amor
+J33E07|J33|7|ETAPA|Servir quem não pode retribuir|Lucas 14:12-14|7|generosidade;recompensa
+J33E08|J33|8|ETAPA|Os sete escolhidos|Atos 6:1-7|7|organização;serviço às mesas
+J33E09|J33|9|PASSO|Um ato de serviço esta semana|Hebreus 13:1-3|5|hospitalidade;presos
+J33E10|J33|10|MARCO|Onde eu sirvo|1 Pedro 4:7-11|15|mordomia;dons
+J34E01|J34|1|ETAPA|Não deixemos de nos reunir|Hebreus 10:23-25|7|comunidade;estímulo
+J34E02|J34|2|ETAPA|Um corpo, muitos membros|1 Coríntios 12:12-27|10|corpo;interdependência
+J34E03|J34|3|FAROL|O que é a igreja|Atos 2:42-47|10|comunhão;práticas
+J34E04|J34|4|TEMPESTADE|Quando a igreja te machuca|2 Coríntios 2:5-11|7|ferida;perdão;restauração
+J34E05|J34|5|ETAPA|Suportar uns aos outros|Efésios 4:1-6|7|paciência;unidade
+J34E06|J34|6|ETAPA|Ferro afia ferro|Provérbios 27:17|7|amizade;afiar
+J34E07|J34|7|ETAPA|A igreja imperfeita de Corinto|1 Coríntios 1:10-17|10|divisão;partidos
+J34E08|J34|8|ETAPA|Carregar o fardo do outro|Gálatas 6:1-2|7|restauração;mansidão
+J34E09|J34|9|PASSO|Uma pessoa para conhecer melhor|Filemom 1:4-7|5|amizade;encorajamento
+J34E10|J34|10|MARCO|Meu lugar no corpo|Efésios 4:11-16|15|edificação;maturidade
+J35E01|J35|1|ETAPA|Sal e luz|Mateus 5:13-16|7|testemunho;visibilidade
+J35E02|J35|2|ETAPA|Prontos para responder|1 Pedro 3:13-17|7|defesa da fé;mansidão
+J35E03|J35|3|FAROL|Luz para as nações|Isaías 49:5-6|10|missão;alcance
+J35E04|J35|4|ETAPA|A samaritana e a cidade|João 4:27-42|10|testemunho;colheita
+J35E05|J35|5|ETAPA|Sereis minhas testemunhas|Atos 1:6-8|7|poder;alcance
+J35E06|J35|6|ETAPA|Paulo diante da cidade dos ídolos|Atos 17:16-21|7|cultura;compaixão
+J35E07|J35|7|ETAPA|Quando ninguém quer ouvir|Ezequiel 2:3-7|7|rejeição;fidelidade
+J35E08|J35|8|ETAPA|Testemunho sem palavras|1 Pedro 2:11-12|7|conduta;boas obras
+J35E09|J35|9|PASSO|Três nomes para orar|Colossenses 4:2-6|5|intercessão;oportunidade
+J35E10|J35|10|MARCO|Minha vizinhança|Atos 8:26-35|15|oportunidade;explicar
+J36E01|J36|1|ETAPA|Corra a justiça como um rio|Amós 5:21-24|10|culto vazio;justiça
+J36E02|J36|2|ETAPA|O jejum que Deus escolhe|Isaías 58:1-8|10|jejum;compaixão prática
+J36E03|J36|3|FAROL|Justiça e misericórdia não são opostas|Salmos 85:8-13|10|verdade;paz
+J36E04|J36|4|ETAPA|As sobras que não são sobras|Levítico 19:9-18|7|imparcialidade;amor
+J36E05|J36|5|ETAPA|O bom samaritano|Lucas 10:25-37|10|próximo;misericórdia
+J36E06|J36|6|ETAPA|Não façam distinção|Tiago 2:1-9|7|acepção de pessoas
+J36E07|J36|7|ETAPA|Nabote e a vinha|1 Reis 21:1-16|10|abuso de poder;cobiça
+J36E08|J36|8|ETAPA|Quando você é a vítima|Salmos 37:1-11|10|indignação;confiança
+J36E09|J36|9|PASSO|Uma injustiça ao meu alcance|Provérbios 31:8-9|5|voz;defesa
+J36E10|J36|10|MARCO|O que eu tenho feito|Mateus 25:41-46|15|omissão;juízo
+J37E01|J37|1|ETAPA|Dai graças em tudo|1 Tessalonicenses 5:16-18|7|gratidão;vontade de Deus
+J37E02|J37|2|ETAPA|Nove seguiram em frente|Lucas 17:11-19|7|gratidão;esquecimento
+J37E03|J37|3|ETAPA|Ricos em boas obras|1 Timóteo 6:17-19|7|riqueza;esperança
+J37E04|J37|4|FAROL|Gratidão não é negação|Salmos 103:1-7|10|bendizer;benefícios
+J37E05|J37|5|ETAPA|Lembra-te de todo o caminho|Deuteronômio 8:10-18|10|memória;orgulho
+J37E06|J37|6|ETAPA|Murmurar é uma escolha|Números 11:1-9|10|murmuração;maná
+J37E07|J37|7|ETAPA|Águas amargas|Êxodo 15:22-27|7|frustração;provisão
+J37E08|J37|8|PORTO|Contentamento em qualquer situação|Hebreus 13:5-6|3|avareza;presença
+J37E09|J37|9|CARTA DE BORDO|Cem coisas pequenas|Salmos 116:12-19|10|gratidão;registro
+J37E10|J37|10|MARCO|O que aprendi a chamar de suficiente|Provérbios 30:7-9|15|suficiência;graça
+J38E01|J38|1|ETAPA|Deus descansou|Gênesis 2:1-3|7|sábado;criação
+J38E02|J38|2|FAROL|O sábado foi feito para o homem|Marcos 2:23-28|10|descanso;legalismo
+J38E03|J38|3|CALMARIA|Vinde a um lugar deserto|Marcos 6:30-32|3|pausa;multidão
+J38E04|J38|4|ETAPA|Em vão vos levantais de madrugada|Salmos 127:1-2|7|esforço;sono
+J38E05|J38|5|ETAPA|A preguiça também descansa — e não é isso|Provérbios 24:30-34|7|preguiça;diferença
+J38E06|J38|6|PORTO|Volta, minha alma, ao teu repouso|Salmos 116:5-9|3|descanso;livramento
+J38E07|J38|7|ETAPA|Resta um repouso|Hebreus 4:9-11|10|repouso;esforço para entrar
+J38E08|J38|8|MARCO|Meu ritmo real|Eclesiastes 4:4-8|15|inveja;trabalho sem fim
+J39E01|J39|1|ETAPA|A esperança que não envergonha|Romanos 5:1-5|7|esperança;tribulação
+J39E02|J39|2|ETAPA|Nossa cidadania está nos céus|Filipenses 3:17-21|7|cidadania;transformação
+J39E03|J39|3|FAROL|O que acontece depois|1 Coríntios 15:35-49|15|corpo ressurreto;semente
+J39E04|J39|4|ETAPA|Ele voltará|Atos 1:9-11|7|ascensão;volta
+J39E05|J39|5|ETAPA|Vigiar sem se desesperar|Mateus 24:36-44|10|vigilância;incerteza
+J39E06|J39|6|ETAPA|As dez virgens|Mateus 25:1-13|10|preparo;espera
+J39E07|J39|7|TEMPESTADE|Medo da morte|Hebreus 2:14-15|7|morte;libertação
+J39E08|J39|8|ETAPA|O último inimigo|1 Coríntios 15:50-58|10|vitória;trabalho não é vão
+J39E09|J39|9|HORIZONTE|Novo céu e nova terra|Isaías 65:17-25|7|restauração;shalom
+J39E10|J39|10|HORIZONTE|A cidade que desce|Apocalipse 21:9-14|7|nova Jerusalém
+J39E11|J39|11|ETAPA|O rio e a árvore|Apocalipse 22:1-5|7|cura das nações;face
+J39E12|J39|12|MARCO|Como eu olho para o futuro agora|2 Pedro 3:11-14|15|revisão;santidade
+J40E01|J40|1|ETAPA|Criados para boas obras|Efésios 2:10|7|feitura;propósito
+J40E02|J40|2|ETAPA|O fim de tudo o que se ouviu|Eclesiastes 12:9-14|10|sentido;temor de Deus
+J40E03|J40|3|FAROL|Vocação não é uma voz secreta|1 Tessalonicenses 4:1-8|10|vontade de Deus;santificação
+J40E04|J40|4|ETAPA|Para um tempo como este|Ester 4:10-16|10|coragem;providência
+J40E05|J40|5|ETAPA|A cada um segundo a sua capacidade|Mateus 25:14-30|10|talentos;risco
+J40E06|J40|6|ETAPA|Aplicar-se às boas obras|Tito 3:4-8|7|geração;legado
+J40E07|J40|7|ETAPA|Quando o propósito parece pequeno|Juízes 6:11-16|10|insuficiência;chamado
+J40E08|J40|8|ETAPA|Frutificar onde você está|Jeremias 29:4-7|7|exílio;bem da cidade
+J40E09|J40|9|CARTA DE BORDO|O que só eu posso fazer|2 Timóteo 1:13-14|10|firmeza;trabalho
+J40E10|J40|10|MARCO|Minha frase de propósito|Salmos 138:7-8|15|revisão;obra das mãos
+J41E01|J41|1|ETAPA|Não vos lembreis das coisas passadas|Isaías 43:18-21|7|novidade;deserto
+J41E02|J41|2|ETAPA|O rio que só abre quando o pé entra|Josué 3:9-17|10|travessia;fé
+J41E03|J41|3|ETAPA|O deserto tem função|Deuteronômio 8:1-6|10|prova;humilhação
+J41E04|J41|4|ETAPA|Saiu sem saber para onde|Hebreus 11:8-16|10|fé;peregrinação
+J41E05|J41|5|TEMPESTADE|Quando tudo muda de uma vez|Rute 1:19-22|7|perda;amargura;retorno
+J41E06|J41|6|ETAPA|Ele muda os tempos|Daniel 2:20-23|7|soberania;sabedoria
+J41E07|J41|7|HORIZONTE|Eis que faço coisas novas|Isaías 42:5-9|7|novo;anúncio
+J42E01|J42|1|ETAPA|Alimento sólido é para os adultos|Hebreus 5:13-14|7|maturidade;discernimento
+J42E02|J42|2|FAROL|Os quatro movimentos, para sempre|Deuteronômio 30:11-14|10|meditação;método
+J42E03|J42|3|ETAPA|Escolha o seu próximo livro|Salmos 119:97-104|7|Palavra;habitar
+J42E04|J42|4|PASSO|Monte seu plano de leitura|Salmos 119:33-40|5|plano;ensino
+J42E05|J42|5|ETAPA|Ore com as suas palavras|Judas 1:20-21|7|oração no Espírito;edificação
+J42E06|J42|6|ETAPA|Encontre uma comunidade|Hebreus 3:12-14|7|exortação diária;firmeza
+J42E07|J42|7|ETAPA|Ensine alguém|2 Timóteo 2:1-2|7|transmissão;discipulado
+J42E08|J42|8|ETAPA|Se você se desgarrar outra vez|Salmos 119:176|7|desgarrar;buscar
+J42E09|J42|9|CARTA DE BORDO|Minha regra de vida|1 Timóteo 4:11-16|10|prática;progresso
+J42E10|J42|10|RETORNO|O porto está sempre aberto|Isaías 30:15-18|5|retorno;confiança
+J42E11|J42|11|HORIZONTE|A âncora da alma|Hebreus 6:17-20|7|esperança;âncora;juramento
+J42E12|J42|12|MARCO|A travessia continua|2 Pedro 3:17-18|15|crescer;graça

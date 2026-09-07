@@ -1,0 +1,288 @@
+@@ID BRACA1
+@@TEXTO
+Toda âncora precisa de um fundo. Sem ele, ela apenas arrasta.
+
+Esta primeira braça trata do que sustenta tudo o mais: quem Deus é, o que ele fez, e quem você passa a ser diante disso. Não é a parte introdutória do livro — é a parte que continua sustentando quando as outras ficarem difíceis.
+@@FIM
+@@ID BRACA2
+@@TEXTO
+Saber onde está o fundo é uma coisa. Permanecer preso a ele quando o vento vira é outra.
+
+Aqui estão as jornadas da constância: oração, confiança, obediência, espera, retorno. O que se aprende nesta braça não impede a tempestade. Impede que você seja levado por ela.
+@@FIM
+@@ID BRACA3
+@@TEXTO
+Há coisas que só se aprendem embaixo d'água — onde há pressão, pouca luz e nenhuma plateia.
+
+Esta braça não é confortável. Sofrimento, dúvida, luto, tentação, culpa. Não passe por aqui porque um livro mandou; passe quando precisar. E, se precisar, saiba que a Bíblia chegou nesses lugares antes de você.
+@@FIM
+@@ID BRACA4
+@@TEXTO
+Fé que não muda nada é ideia, não fé.
+
+Esta braça é onde as Escrituras encostam na sua vida real: no que você perdoa, no que você decide, no que você faz com o seu dinheiro, no seu trabalho, na sua casa, nas suas brigas. É a parte mais desconfortável do livro — e a mais útil.
+@@FIM
+@@ID BRACA5
+@@TEXTO
+Em algum momento você deixa de ser só passageiro do barco.
+
+Maturidade cristã não é saber mais; é carregar mais. Perseverar, servir, pertencer, testemunhar, fazer justiça, agradecer, descansar, esperar. Esta braça trata do que se espera de quem já atravessou algumas travessias.
+@@FIM
+@@ID BRACA6
+@@TEXTO
+Esta braça existe para tornar o livro dispensável.
+
+Três jornadas curtas sobre propósito, mudança de estação e — a última — como sustentar uma prática devocional sem depender de nenhum livro. Se você chegar até aqui e continuar sozinho, este projeto terá cumprido o que se propôs.
+@@FIM
+@@ID J01
+@@TEXTO
+Antes de qualquer busca humana, houve uma iniciativa divina. A Bíblia não começa com alguém procurando Deus; começa com Deus falando.
+
+Dez etapas sobre quem ele é — não a partir do que sentimos, mas do que ele revelou de si mesmo.
+@@FIM
+@@ID J02
+@@TEXTO
+Doze etapas sobre a mensagem central do cristianismo: o problema, a solução, e o que muda.
+
+Se você é novo na fé, comece aqui. Se você já crê há anos, releia mesmo assim — o evangelho não é a porta de entrada que se deixa para trás; é o chão em que se continua andando.
+@@FIM
+@@ID J03
+@@TEXTO
+Boa parte do cansaço espiritual vem de tentar ser alguém que Deus não pediu que você fosse.
+
+Dez etapas sobre identidade: o que a Escritura diz que você é, antes e independentemente do que você produz.
+@@FIM
+@@ID J04
+@@TEXTO
+Muita gente desiste da Bíblia não por falta de fé, mas por falta de método.
+
+Doze etapas práticas: o que a Bíblia é, como os diferentes tipos de texto funcionam, por onde começar, e como sair da leitura com alguma coisa nas mãos.
+@@FIM
+@@ID J05
+@@TEXTO
+A graça é a doutrina mais fácil de explicar e a mais difícil de aceitar.
+
+Oito etapas sobre aquilo que não se compra, não se merece e não se devolve — e sobre por que isso incomoda tanto o nosso instinto de acertar as contas.
+@@FIM
+@@ID J06
+@@TEXTO
+Vinte e um encontros com o Filho de Deus, do primeiro capítulo de João à estrada de Emaús.
+
+Não é uma biografia. É uma aproximação: a cada etapa, uma cena; a cada cena, uma pergunta que ele ainda faz.
+@@FIM
+@@ID J07
+@@TEXTO
+O Espírito Santo é a pessoa da Trindade sobre quem mais se fala e menos se sabe.
+
+Oito etapas para conhecê-lo como as Escrituras o apresentam — não como energia, sensação ou fenômeno, mas como o Deus que veio morar e não foi embora.
+@@FIM
+@@ID J08
+@@TEXTO
+Os discípulos conviveram com Jesus e pediram apenas uma coisa: ensina-nos a orar.
+
+Vinte e uma etapas construídas sobre o Pai Nosso e sobre orações reais da Escritura — inclusive as bravas, as confusas e as que não foram respondidas.
+@@FIM
+@@ID J09
+@@TEXTO
+Ansiedade não é falta de fé. É, muitas vezes, o preço de amar coisas que você não controla.
+
+Quinze etapas para tratar o assunto com seriedade: sem culpar quem sofre, sem prometer alívio automático, e sem devolver o problema disfarçado de versículo.
+@@FIM
+@@ID J10
+@@TEXTO
+Sete etapas para a fase mais solitária da fé: aquela em que você continua orando e o céu continua calado.
+
+Não há aqui uma explicação que resolva. Há companhia — e a constatação de que a Bíblia dá nome a essa experiência em vez de negá-la.
+@@FIM
+@@ID J11
+@@TEXTO
+Cinco etapas. É curta de propósito.
+
+Se você se afastou, não precisa de um programa de recuperação: precisa de um caminho de volta que caiba no ânimo que você tem hoje. Comece por aqui, e depois escolha outra jornada.
+@@FIM
+@@ID J12
+@@TEXTO
+Dez etapas sobre o assunto mais mal resolvido da vida devocional: continuar.
+
+Aqui não há promessa de vinte e um dias, nem calendário, nem sistema de pontos. Há uma pergunta diferente: qual é a menor prática que você conseguiria sustentar durante anos?
+@@FIM
+@@ID J13
+@@TEXTO
+A obediência costuma chegar antes da compreensão. Quase sempre chega.
+
+Oito etapas sobre pessoas que deram o primeiro passo sem ter o mapa inteiro — e sobre o que a Escritura de fato promete a quem faz isso.
+@@FIM
+@@ID J14
+@@TEXTO
+"Não temas" é a ordem mais repetida da Bíblia — e ela quase nunca vem sozinha. Vem acompanhada de um motivo.
+
+Sete etapas para olhar o medo de frente e descobrir o que ele está prometendo em troca da sua obediência.
+@@FIM
+@@ID J15
+@@TEXTO
+Entre a promessa e o cumprimento existe um espaço onde a fé é realmente testada. A Bíblia chama isso de espera; nós chamamos de demora.
+
+Dez etapas para atravessar esse espaço sem endurecer.
+@@FIM
+@@ID J16
+@@TEXTO
+Quinze etapas sobre a pergunta que a Bíblia não evita e o cristianismo popular quase sempre evita.
+
+Aqui não haverá explicação fácil para a sua dor. Haverá texto bíblico, honestidade e a companhia de gente que passou por isso antes — inclusive o próprio Filho de Deus.
+@@FIM
+@@ID J17
+@@TEXTO
+Doze etapas sobre santidade — não a versão de vitrine, que se exibe, mas a versão de raiz, que se decide quando ninguém está olhando.
+
+Uma advertência: esta jornada incomoda. É para isso que ela existe.
+@@FIM
+@@ID J18
+@@TEXTO
+A dúvida não é o oposto da fé. O oposto da fé é a indiferença.
+
+Sete etapas com pessoas que duvidaram dentro da Bíblia — e não foram expulsas por isso.
+@@FIM
+@@ID J19
+@@TEXTO
+Nunca houve tanto conteúdo espiritual disponível e tão pouca régua para medi-lo.
+
+Dez etapas sobre discernimento: como provar o que se ouve, como reconhecer fruto, e como desconfiar do próprio coração sem viver em suspeita.
+@@FIM
+@@ID J20
+@@TEXTO
+Sete etapas para uma ausência que não fecha.
+
+Não há aqui pressa para você melhorar, nem lição de moral sobre a sua tristeza. Há a permissão bíblica de lamentar e a esperança que não obriga ninguém a fingir alegria.
+@@FIM
+@@ID J21
+@@TEXTO
+Solidão não se resolve com uma frase. Mas ela mente sobre algumas coisas, e vale a pena saber quais.
+
+Sete etapas sobre estar só, sobre a diferença entre solidão e isolamento, e sobre a presença que a Escritura promete.
+@@FIM
+@@ID J22
+@@TEXTO
+A maior parte das quedas é decidida antes do momento da queda.
+
+Doze etapas sobre tentação e domínio próprio — com atenção especial ao que acontece nos minutos, dias e escolhas que antecedem o instante em que tudo parece acontecer de repente.
+@@FIM
+@@ID J23
+@@TEXTO
+Culpa é um sinal; não é uma sentença, e nunca foi um pagamento.
+
+Dez etapas sobre a diferença entre culpa, vergonha e arrependimento — e sobre o que Deus efetivamente faz com o pecado que é confessado.
+@@FIM
+@@ID J24
+@@TEXTO
+Perdoar não é dizer que não doeu, nem fingir que não aconteceu, nem confiar de novo automaticamente.
+
+Doze etapas para entender o que o perdão é de fato na Escritura, e por que ele liberta primeiro quem perdoa.
+@@FIM
+@@ID J25
+@@TEXTO
+Dez etapas para o momento em que é preciso escolher e não há placa no caminho.
+
+A Bíblia fala muito menos sobre descobrir uma vontade secreta de Deus e muito mais sobre tornar-se o tipo de pessoa capaz de decidir bem. Esta jornada segue esse caminho.
+@@FIM
+@@ID J26
+@@TEXTO
+Jesus falou de dinheiro mais do que falou do céu. Não por ser um assunto material, mas porque ele é um assunto espiritual disfarçado.
+
+Doze etapas sobre o que a sua relação com o dinheiro revela, e o que se pode fazer a respeito.
+@@FIM
+@@ID J27
+@@TEXTO
+Dez etapas para as quarenta horas semanais que a maioria dos livros devocionais ignora.
+
+Trabalho não é o intervalo entre os cultos. É o lugar onde a maior parte da sua obediência acontece.
+@@FIM
+@@ID J28
+@@TEXTO
+Doze etapas sobre o amor que permanece depois que o encantamento acaba — que é quando o casamento começa de verdade.
+
+Serve para quem está bem, para quem está cansado e para quem está reconstruindo.
+@@FIM
+@@ID J29
+@@TEXTO
+A casa é o lugar onde a nossa teologia é testada sem plateia.
+
+Dez etapas sobre pais, filhos, convivência, herança espiritual e o clima que se respira dentro de quatro paredes.
+@@FIM
+@@ID J30
+@@TEXTO
+Oito etapas sobre a ponte que ninguém quer construir — e sobre por que, na Escritura, quem constrói é quase sempre quem foi ferido.
+
+Curta, direta e desconfortável.
+@@FIM
+@@ID J31
+@@TEXTO
+Comparar-se é um hábito antigo: começa no capítulo 4 da Bíblia e ainda está aqui, agora com uma tela para ajudar.
+
+Oito etapas sobre inveja, comparação e o orgulho que se disfarça das duas coisas.
+@@FIM
+@@ID J32
+@@TEXTO
+Quase ninguém abandona a fé por uma decisão. Abandona-se por esfriamento.
+
+Doze etapas para o meio da caminhada, quando o entusiasmo acabou e ainda falta chão.
+@@FIM
+@@ID J33
+@@TEXTO
+Dez etapas sobre a toalha e a bacia — o gesto com que o Filho de Deus decidiu definir grandeza.
+
+Inclui o que quase nenhum livro sobre serviço trata: o que fazer quando servir cansa.
+@@FIM
+@@ID J34
+@@TEXTO
+Ninguém atravessa sozinho. E, ainda assim, a igreja é o lugar onde muita gente se machucou.
+
+Dez etapas honestas sobre comunidade: o que ela é, por que é indispensável, e o que fazer com as feridas que vieram dela.
+@@FIM
+@@ID J35
+@@TEXTO
+Dez etapas sobre testemunho — sem técnicas de convencimento e sem culpa por não ser evangelista.
+
+A missão começou antes de você e continuará depois. O seu papel nela é menor do que a ansiedade sugere e mais concreto do que a timidez admite.
+@@FIM
+@@ID J36
+@@TEXTO
+Justiça não é um tema social que a fé adotou. É um atributo de Deus.
+
+Dez etapas sobre o que a Escritura chama de justo, sobre misericórdia, e sobre o que fazer quando a injustiça é com você.
+@@FIM
+@@ID J37
+@@TEXTO
+Contentamento não é a ausência de desejo. É a ausência de fome desesperada.
+
+Dez etapas sobre gratidão sem negação da realidade — e sobre a arte, aprendida e não instantânea, de chamar alguma coisa de suficiente.
+@@FIM
+@@ID J38
+@@TEXTO
+Oito etapas sobre o único mandamento que a maioria dos cristãos quebra com orgulho.
+
+Descansar não é desistir. É reconhecer, uma vez por semana, que o mundo continua girando sem você — e que isso é uma boa notícia.
+@@FIM
+@@ID J39
+@@TEXTO
+A esperança cristã não é otimismo. É a expectativa de um acontecimento.
+
+Doze etapas sobre o futuro: o que a Bíblia promete, o que ela não promete, e o que muda hoje em quem leva isso a sério.
+@@FIM
+@@ID J40
+@@TEXTO
+Dez etapas sobre propósito — sem a mitologia do chamado secreto que precisa ser decifrado.
+
+A Escritura fala menos sobre descobrir o seu propósito e mais sobre viver o propósito que já foi revelado. É por aí que esta jornada vai.
+@@FIM
+@@ID J41
+@@TEXTO
+Sete etapas para quando uma estação termina: mudança de emprego, de cidade, de fase, de papel, de corpo.
+
+Travessias têm um trecho em que a margem antiga sumiu e a nova ainda não apareceu. Esta jornada é para esse trecho.
+@@FIM
+@@ID J42
+@@TEXTO
+A última jornada. Doze etapas para construir a sua própria prática devocional — a que continua quando este livro fechar.
+
+Se tudo correr bem, no fim você não vai precisar dele. Era esse o plano desde a primeira página.
+@@FIM

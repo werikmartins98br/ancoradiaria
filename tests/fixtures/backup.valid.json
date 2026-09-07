@@ -1,0 +1,37 @@
+{
+  "app": "Âncora Diária",
+  "schemaVersion": 1,
+  "exportedAt": "2026-09-06T12:00:00.000Z",
+  "state": {
+    "version": 1,
+    "onboarded": true,
+    "lastDevotionalId": "J01E01",
+    "lastJourneyId": "J01",
+    "lastResumePath": "#/devotional/J01E01",
+    "traversalIndex": 0,
+    "completed": ["J01E01"],
+    "favorites": ["J01E01"],
+    "reread": [],
+    "prayerCollection": [],
+    "importantCollection": [],
+    "notes": [
+      {
+        "id": "nota-importacao-qa",
+        "devotionalId": "J01E01",
+        "text": "Backup local importado com sucesso.",
+        "marker": "Reflexão",
+        "createdAt": "2026-09-06T12:00:00.000Z",
+        "updatedAt": "2026-09-06T12:00:00.000Z"
+      }
+    ],
+    "milestones": [],
+    "readingPositions": { "J01E01": 0 },
+    "journeyStartedAt": { "J01": "2026-09-06T12:00:00.000Z" },
+    "settings": {
+      "theme": "dark",
+      "fontScale": 1.1,
+      "readingWidth": "focused",
+      "reducedMotion": true
+    }
+  }
+}
